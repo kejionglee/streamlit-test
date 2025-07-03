@@ -1,0 +1,6 @@
+scikit-image
+tqdm
+opencv-python-headless
+numpy
+matplotlib 
+joblib
